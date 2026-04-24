@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Thanushka 👋
 
-<!--
-**thanushka24/thanushka24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Who I Am
+I am a Computer Science Engineering student specializing in Data Science. I’m passionate about using technology to solve real-world challenges and continuously improving my skills in problem-solving, data science, and machine learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 What I’m Currently Working On
+- Strengthening my Data Structures & Algorithms (DSA)
+- Exploring Data Science and Machine Learning concepts
+- Building small projects to improve practical skills
+- Improving problem-solving and coding consistency
+
+---
+
+## 🛠️ Tools & Technologies
+- Languages: C, Java, Python (learning)
+- Concepts: Data Structures, Algorithms, Problem Solving
+- Tools: Git, GitHub, VS Code
+- Areas of Interest: Data Science, Machine Learning
+
+---
+
+## 📫 How to Reach Me
+- Email: your-email@example.com
+- LinkedIn: https://linkedin.com/in/your-profile
