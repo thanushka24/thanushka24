@@ -8,4 +8,4 @@ Currently exploring Data Science and Machine Learning projects and how AI can be
 
 ### 🛠️ Tools & Technologies
 **Languages:** Java, C, Python, HTML, CSS, JavaScript  
-**Tools:** Git, GitHub, Power BI, Tableau  
+**Tools:** VS code, GitHub, Power BI 
